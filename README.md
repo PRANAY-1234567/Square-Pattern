@@ -110,6 +110,6 @@ You can extend this program to create:
 
 ## 👨‍💻 Author
 
-Created as part of Python pattern-printing practice for beginner programming learning.
+Pranay Jadhao
 
 ---
