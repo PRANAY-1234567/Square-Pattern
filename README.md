@@ -42,7 +42,7 @@ for i in range(1, n + 1):
 * Runs `n` times.
 * Each iteration represents one row.
 
----
+--------------------------------------------------------
 
 ### 3️⃣ Inner Loop — Prints Stars
 
