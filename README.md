@@ -31,7 +31,7 @@ n = 5
 * Determines the number of rows and columns.
 * Here, the program prints a **5 × 5 square**.
 
----
+------------------------------------------------------
 
 ### 2️⃣ Outer Loop — Controls Rows
 
