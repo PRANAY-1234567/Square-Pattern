@@ -5,7 +5,7 @@
 This Python program prints a **square star (`*`) pattern** using nested loops.
 Each row contains the same number of stars, forming a perfect square shape.
 
----
+-------------------------------------------------------------------------
 
 ## ⚙️ Source Code
 
